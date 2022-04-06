@@ -3,4 +3,10 @@ body{
     background-color: aqua;
     background-repeat: no-repeat;
     background-attachment: scroll;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 5px;
+    margin: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: absolute;
+    
 }
